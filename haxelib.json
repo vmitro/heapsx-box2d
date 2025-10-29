@@ -1,0 +1,12 @@
+{
+  "name": "heapsx-box2d",
+  "url": "https://github.com/heapsx/heapsx-box2d",
+  "license": "MIT",
+  "tags": ["physics", "box2d", "heaps", "hashlink", "2d", "game", "simulation"],
+  "description": "Box2D 2D physics engine bindings for HashLink/Heaps.io",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release with full Box2D v3 API support",
+  "contributors": ["heapsx"],
+  "dependencies": {}
+}
